@@ -23,7 +23,7 @@ winpercent | The overall win percentage according to 269,000 matchups.
 
 
 
-##Situation
+## **Situation**
 
 The company would like to expand the range of confectionery (private label). For this purpose a new candy
 be created. However, there is still disagreement within the project team concerned about the
@@ -34,6 +34,6 @@ The results of the market research are now available and you have been commissio
 to perform. The aim is to analyze the impact of confectionery characteristics on their popularity
 and to make a recommendation for the new sweet based on this analysis.
 
-##Goal:
+## **Goal**
 To analyze the impact of confectionary characteristics on their popularity and to make a recommendation for the new sweet based on the analysis. 
 
