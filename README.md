@@ -21,3 +21,19 @@ sugarpercent | The percentile of sugar it falls under within the data set.
 pricepercent | The unit price percentile compared to the rest of the set.
 winpercent | The overall win percentage according to 269,000 matchups.
 
+
+
+##Situation
+
+The company would like to expand the range of confectionery (private label). For this purpose a new candy
+be created. However, there is still disagreement within the project team concerned about the
+Characteristics of the new candy. For example, while some prefer a cookie-based candy, others prefer one
+fruit jelly variation. Therefore, the division board decided to set up a market research company
+to determine the popularity of the confectionery available on the market. 
+The results of the market research are now available and you have been commissioned to analyze the data
+to perform. The aim is to analyze the impact of confectionery characteristics on their popularity
+and to make a recommendation for the new sweet based on this analysis.
+
+##Goal:
+To analyze the impact of confectionary characteristics on their popularity and to make a recommendation for the new sweet based on the analysis. 
+
