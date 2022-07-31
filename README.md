@@ -49,5 +49,9 @@ Present a board presentation (use the management summary slide for this).
 Afterwards we will briefly discuss your method and your analytical results together and take a look
 possibly your code.
 
+**Target**
+To combine entrepreneurial understanding with data analysis in order to create an entrepreneurial
+support decision.
+
  
 
