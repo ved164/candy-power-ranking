@@ -39,5 +39,19 @@ sugarpercent | The percentile of sugar it falls under within the data set.
 pricepercent | The unit price percentile compared to the rest of the set.
 winpercent | The overall win percentage according to 269,000 matchups.
 
+
+
+**Deliverables** <br>
+In preparation, work on the case and send a slide "Management Summary
+to prepare for your analysis".
+During our conversation you will receive your analysis in the format of a maximum of 15 minutes
+Present a board presentation (use the management summary slide for this).
+Afterwards we will briefly discuss your method and your analytical results together and take a look
+possibly your code.
+
+**Target** <br>
+To combine entrepreneurial understanding with data analysis in order to create an entrepreneurial
+support decision.
+
  
 
