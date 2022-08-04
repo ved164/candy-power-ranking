@@ -1,4 +1,4 @@
-# Candy Power Ranking
+# Candy Power Ranking Analysis
 
 
 
